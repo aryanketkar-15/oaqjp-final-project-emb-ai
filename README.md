@@ -1,4 +1,4 @@
-# Emotion Detector
+# Final Project
 
 ## Project Overview
 An AI-based web application that performs emotion detection using the **Watson NLP Library** and is deployed via **Flask**.
